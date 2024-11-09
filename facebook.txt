@@ -1,1 +1,4 @@
-ganvi
+username
+password
+email
+number
